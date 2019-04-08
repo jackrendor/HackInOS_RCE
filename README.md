@@ -17,5 +17,9 @@ nc -vlp 4444
 ```
 If `LPORT` and `LHOST` are not set, the script will only upload the file and output his location.
 
-#Dependencies
+
+# Dependencies
 It requires `Python3` and the library `requests`.
+
+# Screenshot
+![Screenshot](./screenshot.png)
